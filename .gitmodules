@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "eCAR"]
-	path = eCAR
-	url = https://github.com/gpage2990/ecar
-	shallow = true
-	registered = true
